@@ -1,0 +1,26 @@
+Topics to do a one paragraph write up:
+
+What is virtual environments. How are these used and why are they important?
+
+What is difference between virtual environments and global machine configurations
+
+What is versión control and what is the process and technologies used to follow with this good practice?
+
+Draw a brief diagram of code version control and describe the process on project development.
+
+Describe the commands and process for connecting to the following GitHub report on your local project;
+
+Describe what the following commands do:
+- git unit
+- git remote add
+- git pull origin main
+- git add (for names)
+- git commit -m “comment here”
+
+- Week 1
+What are ssh keys? Why are they important and what is the process of creating these on your local machine?
+
+- what are the terminal ( on Linux/MacOS) / command prompt ( on windows)? Why are these important and what used for?
+
+- describe some fundamental Linux commands which include:
+ls / cd / Mkdir / touch / cd .. / cp / mv / cat / tail 
